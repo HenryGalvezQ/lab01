@@ -41,6 +41,9 @@
 <ul>
 <li>GALVEZ QUILLA, Henry Isaias (hgalvezq@unsa.edu.pe)</li>
 </ul>
+CUI:
+<li>20201828</li>
+</ul>
 </td>
 <td>NOTA: </td>
 <td width="150"></td>
@@ -64,3 +67,15 @@
 <tr><td colspan="6">Soy estudiante de esta prestigiosa Universidad y llevo cursando el segundo año de Ingeniería de Sistemas, tengo 19 años me gusta leer y pasar tiempo en la Computadora y estoy ansioso por compartir experiencias con ustedes compañeros en este mundo de la programación e informática.: 
 </td>
 </<tr>
+<div aling="center">
+<table>
+<theader>
+<tr><th colspan="6">SOLUCIÓN Y RESULTADOS</th></tr>
+</theader>
+<tbody>
+<tr><td colspan="6">I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS: <br>
+<img src="https://raw.githubusercontent.com/HenryGalvezQ/lab01/master/EvidenciaHolaMundo.jpg" alt="EVIDENCIA" style="width:100%; height:auto"/></td>
+</<tr>
+</tdbody>
+</table>
+</div>
